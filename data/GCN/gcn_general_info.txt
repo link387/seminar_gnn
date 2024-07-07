@@ -1,0 +1,2 @@
+--n-epochs = 200
+No patience mechanism

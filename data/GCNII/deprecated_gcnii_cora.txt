@@ -1,0 +1,50 @@
+2-layer:
+best Epoch: 446, Val loss: 0.6770, Test acc: 0.8130
+best Epoch: 212, Val loss: 0.7074, Test acc: 0.8040
+best Epoch: 173, Val loss: 0.7102, Test acc: 0.8050
+best Epoch: 400, Val loss: 0.6868, Test acc: 0.7960
+best Epoch: 266, Val loss: 0.7005, Test acc: 0.8210
+
+4-layer:
+best Epoch: 294, Val loss: 0.7214, Test acc: 0.8010
+best Epoch: 520, Val loss: 0.7027, Test acc: 0.8180
+best Epoch: 377, Val loss: 0.6686, Test acc: 0.8250
+best Epoch: 249, Val loss: 0.6980, Test acc: 0.7960
+best Epoch: 342, Val loss: 0.6637, Test acc: 0.8180
+
+8-layer:
+best Epoch: 398, Val loss: 0.7539, Test acc: 0.8280
+best Epoch: 355, Val loss: 0.7448, Test acc: 0.8420
+best Epoch: 483, Val loss: 0.7425, Test acc: 0.8390
+best Epoch: 420, Val loss: 0.7430, Test acc: 0.8330
+best Epoch: 619, Val loss: 0.7323, Test acc: 0.8300
+
+16-layer:
+best Epoch: 747, Val loss: 0.7668, Test acc: 0.8460
+best Epoch: 687, Val loss: 0.7757, Test acc: 0.8480
+best Epoch: 483, Val loss: 0.7931, Test acc: 0.8520
+best Epoch: 511, Val loss: 0.7965, Test acc: 0.8510
+best Epoch: 419, Val loss: 0.8098, Test acc: 0.8450
+
+32-layer:
+best Epoch: 595, Val loss: 0.7971, Test acc: 0.8440
+best Epoch: 609, Val loss: 0.7968, Test acc: 0.8480
+best Epoch: 794, Val loss: 0.7878, Test acc: 0.8540
+best Epoch: 436, Val loss: 0.8345, Test acc: 0.8450
+best Epoch: 628, Val loss: 0.7946, Test acc: 0.8480
+
+64-layer:
+best Epoch: 528, Val loss: 0.8417, Test acc: 0.8540
+best Epoch: 501, Val loss: 0.8614, Test acc: 0.8570
+best Epoch: 631, Val loss: 0.8102, Test acc: 0.8600
+best Epoch: 663, Val loss: 0.8158, Test acc: 0.8540
+best Epoch: 664, Val loss: 0.8035, Test acc: 0.8580
+
+128-layer:
+best Epoch: 492, Val loss: 0.8645, Test acc: 0.8460
+best Epoch: 524, Val loss: 0.8675, Test acc: 0.8440
+best Epoch: 628, Val loss: 0.8502, Test acc: 0.8360
+best Epoch: 682, Val loss: 0.8514, Test acc: 0.8540
+best Epoch: 698, Val loss: 0.8053, Test acc: 0.8550
+
+--------------------------------------------------- New below: 

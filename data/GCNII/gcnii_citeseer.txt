@@ -1,0 +1,159 @@
+2-layer:
+
+Train cost: 2.8372s
+Load 152th epoch
+Test acc.:68.4
+
+Train cost: 4.3707s
+Load 379th epoch
+Test acc.:68.9
+
+Train cost: 3.8605s
+Load 298th epoch
+Test acc.:68.7
+
+Train cost: 4.0409s
+Load 329th epoch
+Test acc.:68.9
+
+Train cost: 3.8199s
+Load 287th epoch
+Test acc.:67.0
+
+
+4-layer:
+
+Train cost: 4.7779s
+Load 241th epoch
+Test acc.:68.0
+
+Train cost: 7.8911s
+Load 547th epoch
+Test acc.:65.9
+
+Train cost: 7.5746s
+Load 526th epoch
+Test acc.:69.3
+
+Train cost: 5.5197s
+Load 321th epoch
+Test acc.:69.2
+
+Train cost: 9.0780s
+Load 672th epoch
+Test acc.:67.9
+
+
+8-layer:
+
+Train cost: 13.5381s
+Load 609th epoch
+Test acc.:71.6
+
+Train cost: 13.0695s
+Load 573th epoch
+Test acc.:70.3
+
+Train cost: 13.1129s
+Load 580th epoch
+Test acc.:69.6
+
+Train cost: 12.7816s
+Load 550th epoch
+Test acc.:72.0
+
+Train cost: 12.6754s
+Load 551th epoch
+Test acc.:70.7
+
+
+16-layer:
+
+Train cost: 25.5476s
+Load 657th epoch
+Test acc.:72.4
+
+Train cost: 27.8276s
+Load 726th epoch
+Test acc.:71.9
+
+Train cost: 22.7891s
+Load 569th epoch
+Test acc.:72.3
+
+Train cost: 32.7117s
+Load 881th epoch
+Test acc.:71.8
+
+Train cost: 31.9230s
+Load 856th epoch
+Test acc.:72.6
+
+
+32-layer:
+
+Train cost: 45.7952s
+Load 632th epoch
+Test acc.:72.5
+
+Train cost: 45.8761s
+Load 637th epoch
+Test acc.:72.2
+
+Train cost: 36.9140s
+Load 485th epoch
+Test acc.:72.4
+
+Train cost: 46.7380s
+Load 651th epoch
+Test acc.:72.0
+
+Train cost: 53.7460s
+Load 765th epoch
+Test acc.:73.3
+
+
+64-layer:
+
+Train cost: 75.3556s
+Load 524th epoch
+Test acc.:72.2
+
+Train cost: 68.6224s
+Load 474th epoch
+Test acc.:72.4
+
+Train cost: 91.3363s
+Load 659th epoch
+Test acc.:73.0
+
+Train cost: 99.8633s
+Load 743th epoch
+Test acc.:72.7
+
+Train cost: 93.2497s
+Load 682th epoch
+Test acc.:71.5
+
+
+128-layer:
+
+Train cost: 170.5760s
+Load 632th epoch
+Test acc.:72.8
+
+Train cost: 195.2868s
+Load 742th epoch
+Test acc.:72.0
+
+Train cost: 204.8986s
+Load 773th epoch
+Test acc.:72.3
+
+Train cost: 171.0573s
+Load 634th epoch
+Test acc.:73.1
+
+Train cost: 135.2521s
+Load 473th epoch
+Test acc.:73.2
